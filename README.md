@@ -14,8 +14,16 @@ This will give an error saying "cant concatenate str with int"
 print("age " + str(age))
 ```
 
+---
+
 ## STRING METHODS
 
 `variable_name.capitalize()` - Makes the first letter of the string capital and the rest lowercase.
 
 `isalpha()` - return true for strings like these 'brocode', but for strings with any space it returns false.
+
+---
+
+**By default, the data-type returned from the `input()` function is a string.**
+
+**If we cast a string to an integer, it can only be a whole number.**
