@@ -38,3 +38,6 @@ print("age " + str(age))
 With `for` loop, we know the amount of times we want the code to execute.
 
 ---
+
+add `end=''` in the print statement to avoid the print statement showing the next print in the next line.  
+`print('hello', end='')`
