@@ -30,4 +30,11 @@ print("age " + str(age))
 
 ---
 
-- `abs()` tells you how far a number is from 0. Also can be used to convert -ve numbers to +ve numbers
+`abs()` tells you how far a number is from 0. Also can be used to convert -ve numbers to +ve numbers
+
+---
+
+`while` loop could execute unlimited amount of times.  
+With `for` loop, we know the amount of times we want the code to execute.
+
+---
