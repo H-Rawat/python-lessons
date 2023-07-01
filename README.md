@@ -27,3 +27,7 @@ print("age " + str(age))
 **By default, the data-type returned from the `input()` function is a string.**
 
 **If we cast a string to an integer, it can only be a whole number.**
+
+---
+
+- `abs()` tells you how far a number is from 0. Also can be used to convert -ve numbers to +ve numbers
